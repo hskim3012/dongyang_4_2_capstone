@@ -1,2 +1,2 @@
 # dongyang_4_2_capstone
-# 김현서 왔다감
+# 니 깃허브 쩔더라
